@@ -1,0 +1,2 @@
+rootProject.name = "My圆形进度条"
+include ':app'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <declare-styleable name="Draw_CircleProgress">
+       表示在这里面的属性是为“Draw_CircleProgress自定义的属性”
+    </declare-styleable>-->
+    <declare-styleable name="Draw_CircleProgress">
+        <!--<attr name="backgroundColor" 属性的名称
+        format="color|reference"/> 属性的属性
+        -->
+        <attr name="backgroundColor" format="color|reference"/>
+        <attr name="paintwidth" format="string|reference"/>
+        <attr name="forgroundColre" format="color|reference"/>
+    </declare-styleable>
+</resources>
